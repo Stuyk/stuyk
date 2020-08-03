@@ -35,7 +35,7 @@
 - Mirror Roleplay a Roleplay Framework with 4 Repositories for Rage.mp
 - Open:RP for alt:V
 
-#### Achievements
+#### Milestones
 **2011**
 - PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine.
 
@@ -43,7 +43,23 @@
 - [Wrote a C# Book on RAGE:MP Development](https://gumroad.com/l/ghCzx)
 - Landed my first Development Job as a Junior Blockchain Developer
 
+**2019**
+- Visited Paris France
+- [Learned Preact](https://preactjs.com/)
+- [Learned Electron](https://www.electronjs.org/)
+- Created a Private Key to Mnemonic Key Solution
+- Created an Authenticator / Signature App for EOS Based Chains
+- Learned Websockets
+- Learned REST
+- Learned / Tested Diffie Hellman Key Exchange Successfully
+- Learned Express
+- Learned Discord oAuth2 Implementation
+
 **2020**
+- Created Custom Authentication System through Express
+- Learned Continuous Integration for Gitlab
+- Learned Continuous Integration for Github Actions
+- [Learned Vue](https://vuejs.org)
 - 2,000 Contributions in a single year while burning out for 1 ½ months.
 
 [ultra-io]: https://ultra.io/
