@@ -2,7 +2,7 @@
 ### Blockchain Developer for [Ultra.io][ultra-io]
 #### Self-taught programmer from non-traditional sources.
 
-<sup>I like to pronounce my handle as stuck.</sup>
+<sup>I like to pronounce my handle as stuck. My favorite stack is **MEVN**</sup>
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
@@ -10,8 +10,6 @@
 👔 [linkedin][linkedin] **|**
 💸 [patreon][patreon] **|**
 ☕ [ko-fi][kofi]
-
-**My favorite stack is MEVN**
 
 #### Previous Projects (No Specific Order)
 - Simply Modular Housing for Fallout 4
@@ -41,17 +39,25 @@
 **2011**
 - PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine.
 
+**2015-2017**
+- Started Actually Teaching Myself Programming for Realsies (C#)
+
 **2018**
-- [Wrote a C# Book on RAGE:MP Development](https://gumroad.com/l/ghCzx)
-- Landed my first Development Job as a Junior Blockchain Developer
 - Learned LiteDB
+- [Wrote a C# Book on RAGE:MP Development](https://gumroad.com/l/ghCzx)
+- Wrote a Mock Blockchain in C# called Domino (Not Complete)
+- Learned Some C++
+- Learned a lot of Javascript
+- Learned Smart Contracts for [eos.io](https://eos.io)
+- First Development Job as a Junior Blockchain Developer
 
 **2019**
 - Visited Paris France
+- Prototyped an Authenticator / Signature App
 - [Learned Preact](https://preactjs.com/)
 - [Learned Electron](https://www.electronjs.org/)
 - Created a Private Key to Mnemonic Key Solution
-- Created an Authenticator / Signature App for EOS Based Chains
+- Created an Authenticator / Signature App for Ultra
 - Learned Websockets
 - Learned REST
 - Learned / Tested Diffie Hellman Key Exchange Successfully
