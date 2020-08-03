@@ -2,10 +2,14 @@
 ### Blockchain Developer for [Ultra.io][ultra-io]
 #### Self-taught programmer from non-traditional sources.
 
+<sup>I like to pronounce my handle as stuck.</sup>
+
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] **|**
+💸 [patreon][patreon] **|**
+☕ [ko-fi][kofi]
 
 #### Previous Projects (No Specific Order)
 - Simply Modular Housing for Fallout 4
@@ -42,3 +46,5 @@
 [website]: https://stuyk.com/
 [youtube]: https://youtube.com/stuyk/
 [twitch]: https://twitch.tv/stuyksoft/
+[kofi]: https://ko-fi.com/stuyk
+[patreon]: https://patreon.com/stuyk
