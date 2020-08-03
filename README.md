@@ -42,6 +42,7 @@
 **2018**
 - [Wrote a C# Book on RAGE:MP Development](https://gumroad.com/l/ghCzx)
 - Landed my first Development Job as a Junior Blockchain Developer
+- Learned LiteDB
 
 **2019**
 - Visited Paris France
@@ -54,6 +55,8 @@
 - Learned / Tested Diffie Hellman Key Exchange Successfully
 - Learned Express
 - Learned Discord oAuth2 Implementation
+- Learned PostgresSQL
+- Learned MongoDB
 
 **2020**
 - Created Custom Authentication System through Express
