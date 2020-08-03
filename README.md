@@ -1,14 +1,11 @@
+
 ### Blockchain Developer for [Ultra.io][ultra-io]
 #### Self-taught programmer from non-traditional sources.
-
----
 
 🏡 [website][website] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 👔 [linkedin][linkedin]
-
----
 
 #### Previous Projects (No Specific Order)
 - Simply Modular Housing for Fallout 4
