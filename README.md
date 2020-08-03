@@ -11,6 +11,8 @@
 💸 [patreon][patreon] **|**
 ☕ [ko-fi][kofi]
 
+**My favorite stack is MEVN**
+
 #### Previous Projects (No Specific Order)
 - Simply Modular Housing for Fallout 4
 - Alternate Settlements for Fallout 4
