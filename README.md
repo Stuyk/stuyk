@@ -36,9 +36,15 @@
 - Open:RP for alt:V
 
 #### Achievements
-- 2011 PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine. *2011*
-- [Wrote a C# Book on RAGE:MP Development](https://gumroad.com/l/ghCzx) *2018*
-- 2,000 Contributions in a single year while burning out for 1 ½ months. *2020*
+**2011**
+- PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine.
+
+**2018**
+- [Wrote a C# Book on RAGE:MP Development](https://gumroad.com/l/ghCzx)
+- Landed my first Development Job as a Junior Blockchain Developer
+
+**2020**
+- 2,000 Contributions in a single year while burning out for 1 ½ months.
 
 [ultra-io]: https://ultra.io/
 [vue]: https://vuejs.org/
