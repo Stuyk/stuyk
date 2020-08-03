@@ -35,10 +35,8 @@
 - Open:RP for alt:V
 
 #### Achievements
-
 - 2011 PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine.
-
-
+- 2,000 Contributions in a single year while burning out for 1 ½ months.
 
 [ultra-io]: https://ultra.io/
 [vue]: https://vuejs.org/
