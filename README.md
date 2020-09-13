@@ -72,6 +72,8 @@
 - Learned Continuous Integration for Github Actions
 - [Learned Vue](https://vuejs.org)
 - 2,000 Contributions in a single year while burning out for 1 ½ months.
+- Learned Ansible
+- Learned Elliptic Library
 
 [ultra-io]: https://ultra.io/
 [vue]: https://vuejs.org/
