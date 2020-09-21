@@ -1,6 +1,6 @@
 
-### Blockchain Developer for [Ultra.io][ultra-io]
-#### Self-taught programmer from non-traditional sources.
+# Blockchain Developer for [Ultra.io][ultra-io]
+## Self-taught programmer from non-traditional sources.
 
 <sup>I like to pronounce my handle as stuck. My favorite stack is **MEVN**</sup>
 
@@ -11,7 +11,7 @@
 💸 [patreon][patreon] **|**
 ☕ [ko-fi][kofi]
 
-## Previous Projects
+# Previous Projects
 
 <details>
   <summary>Expand</summary>
@@ -61,7 +61,7 @@
 - Open:RP for alt:V
 </details>
 
-#### Milestones
+# Milestones
 <h2>2011</h2>
 <details>
   <summary>Expand</summary>
