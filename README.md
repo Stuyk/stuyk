@@ -1,6 +1,6 @@
 
-# Blockchain Developer for [Ultra.io][ultra-io]
-## Self-taught programmer from non-traditional sources.
+## Blockchain Developer for [Ultra.io][ultra-io]
+### Self-taught programmer from non-traditional sources.
 
 <sup>I like to pronounce my handle as stuck. My favorite stack is **MEVN**</sup>
 
@@ -11,7 +11,7 @@
 💸 [patreon][patreon] **|**
 ☕ [ko-fi][kofi]
 
-# Previous Projects
+### Previous Projects
 
 <details>
   <summary>Expand</summary>
@@ -61,22 +61,22 @@
 - Open:RP for alt:V
 </details>
 
-# Milestones
-<h2>2011</h2>
+### Milestones
+<h3>2011</h2>
 <details>
   <summary>Expand</summary>
 
 - PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine.
 </details>
 
-<h2>2015 - 2017</h2>
+<h3>2015 - 2017</h2>
 <details>
   <summary>Expand</summary>
   
 - Started Actually Teaching Myself Programming for Realsies (C#)
 </details>
 
-<h2>2018</h2>
+<h3>2018</h2>
 <details>
   <summary>Expand</summary>
 
@@ -95,7 +95,7 @@
 - First Development Job as a Junior Blockchain Developer
 </details>
 
-<h2>2019</h2>
+<h3>2019</h2>
 <details>
   <summary>Expand</summary>
 
@@ -126,7 +126,7 @@
 - Learned MongoDB
 </details>
 
-<h2>2020</h2>
+<h3>2020</h2>
 <details>
   <summary>Expand</summary>
   
@@ -145,7 +145,7 @@
 - Learned Elliptic Library
 </details>
 
-#### Stats
+### Stats
 
 <a href="https://github.com/stuyk">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stuyk&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
