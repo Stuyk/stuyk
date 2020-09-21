@@ -11,17 +11,10 @@
 💸 [patreon][patreon] **|**
 ☕ [ko-fi][kofi]
 
-#### Stats
-
-<p align="center">
-<a href="https://github.com/stuyk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stuyk&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stuyk&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
+## Previous Projects
 
 <details>
-  <summary>Previous Projects (No Specific Order)</summary>
+  <summary>Expand</summary>
   
 - Simply Modular Housing for Fallout 4
   
@@ -69,20 +62,23 @@
 </details>
 
 #### Milestones
+<h2>2011</h2>
 <details>
-  <summary>2011</summary>
+  <summary>Expand</summary>
 
 - PC Gamer Magazine December I had my level design for Frosty and Industrial Jungle featured in the magazine.
 </details>
 
+<h2>2015 - 2017</h2>
 <details>
-  <summary>2015 - 2017</summary>
+  <summary>Expand</summary>
   
 - Started Actually Teaching Myself Programming for Realsies (C#)
 </details>
 
+<h2>2018</h2>
 <details>
-  <summary>2018</summary>
+  <summary>Expand</summary>
 
 - Learned LiteDB
 
@@ -99,8 +95,9 @@
 - First Development Job as a Junior Blockchain Developer
 </details>
 
+<h2>2019</h2>
 <details>
-  <summary>2019</summary>
+  <summary>Expand</summary>
 
 - Visited Paris France
 
@@ -129,8 +126,9 @@
 - Learned MongoDB
 </details>
 
+<h2>2020</h2>
 <details>
-  <summary>2020</summary>
+  <summary>Expand</summary>
   
 - Created Custom Authentication System through Express
 
@@ -146,6 +144,13 @@
 
 - Learned Elliptic Library
 </details>
+
+#### Stats
+
+<a href="https://github.com/stuyk">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stuyk&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stuyk&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+</a>
 
 [ultra-io]: https://ultra.io/
 [vue]: https://vuejs.org/
