@@ -1,17 +1,23 @@
+<p align="center">
+  Blockchain Developer for <a href="https://ultra.io/">Ultra.io</a>
+  <br />
+  I like to pronounce my handle as stuck
+  <br />
+  My favorite stack is <b>MEVN</b>
+  <br />
+  Self-taught
+  <br />
+  <br />
+  <img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
+</p>
 
-## Blockchain Developer for [Ultra.io][ultra-io]
-### Self-taught programmer from non-traditional sources.
-
-<sup>I like to pronounce my handle as stuck. My favorite stack is **MEVN**</sup>
-
-🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-👔 [linkedin][linkedin] **|**
-💸 [patreon][patreon] **|**
-☕ [ko-fi][kofi]
-
-<img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
+<p align="center">
+  <a href="https://stuyk.com/">🏡 Personal Website</a> |
+  <a href="https://youtube.com/stuyk">📺 Youtube</a> |
+  <a href="https://twitch.tv/stuyksoft">🎥 Twitch</a> |
+  <a href="https://linkedin.com/in/stuyk-trevor-wessel/">👔 LinkedIn</a> |
+  <a href="https://patreon.com/stuyk/">💸 Patreon</a>
+</p>
 
 ### Previous Projects
 
@@ -157,9 +163,11 @@
 [ultra-io]: https://ultra.io/
 [vue]: https://vuejs.org/
 [altv]: https://altv.mp/
-[linkedin]: https://www.linkedin.com/in/stuyk-trevor-wessel/
+[linkedin]: 
 [website]: https://stuyk.com/
 [youtube]: https://youtube.com/stuyk/
 [twitch]: https://twitch.tv/stuyksoft/
 [kofi]: https://ko-fi.com/stuyk
 [patreon]: https://patreon.com/stuyk
+
+</p>
