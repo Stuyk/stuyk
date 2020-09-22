@@ -1,23 +1,20 @@
-<p align="center">
-  Blockchain Developer for <a href="https://ultra.io/">Ultra.io</a>
-  <br />
-  I like to pronounce my handle as stuck
-  <br />
-  My favorite stack is <b>MEVN</b>
-  <br />
-  Self-taught
-  <br />
-  <br />
-  <img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
-</p>
 
-<p align="center">
-  <a href="https://stuyk.com/">🏡 Personal Website</a> |
-  <a href="https://youtube.com/stuyk">📺 Youtube</a> |
-  <a href="https://twitch.tv/stuyksoft">🎥 Twitch</a> |
-  <a href="https://linkedin.com/in/stuyk-trevor-wessel/">👔 LinkedIn</a> |
-  <a href="https://patreon.com/stuyk/">💸 Patreon</a>
-</p>
+Blockchain Developer for <a href="https://ultra.io/">Ultra.io</a>
+<br />
+I like to pronounce my handle as stuck
+<br />
+My favorite stack is <b>MEVN</b>
+<br />
+Self-taught
+<br />
+<br />
+<img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
+
+<a href="https://stuyk.com/">🏡 Personal Website</a> |
+<a href="https://youtube.com/stuyk">📺 Youtube</a> |
+<a href="https://twitch.tv/stuyksoft">🎥 Twitch</a> |
+<a href="https://linkedin.com/in/stuyk-trevor-wessel/">👔 LinkedIn</a> |
+<a href="https://patreon.com/stuyk/">💸 Patreon</a>
 
 ### Previous Projects
 
@@ -159,15 +156,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stuyk&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stuyk&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
-
-[ultra-io]: https://ultra.io/
-[vue]: https://vuejs.org/
-[altv]: https://altv.mp/
-[linkedin]: 
-[website]: https://stuyk.com/
-[youtube]: https://youtube.com/stuyk/
-[twitch]: https://twitch.tv/stuyksoft/
-[kofi]: https://ko-fi.com/stuyk
-[patreon]: https://patreon.com/stuyk
-
-</p>
