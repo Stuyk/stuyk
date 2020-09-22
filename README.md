@@ -11,6 +11,8 @@
 💸 [patreon][patreon] **|**
 ☕ [ko-fi][kofi]
 
+<img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
+
 ### Previous Projects
 
 <details>
