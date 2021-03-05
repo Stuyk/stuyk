@@ -11,10 +11,8 @@ Self-taught
 <img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
 
 <a href="https://stuyk.com/">🏡 Personal Website</a> |
+<a href="https://gtavathena.com/">Athena Roleplay Framework</a> |
 <a href="https://youtube.com/stuyk">📺 Youtube</a> |
-<a href="https://twitch.tv/stuyksoft">🎥 Twitch</a> |
-<a href="https://linkedin.com/in/stuyk-trevor-wessel/">👔 LinkedIn</a> |
-<a href="https://patreon.com/stuyk/">💸 Patreon</a>
 
 ### Previous Projects
 
