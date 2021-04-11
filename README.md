@@ -62,6 +62,8 @@ Self-taught
 - Mirror Roleplay a Roleplay Framework with 4 Repositories for Rage.mp
 
 - Open:RP for alt:V
+
+- Various Open Source alt:V Repos
 </details>
 
 ### Milestones
@@ -146,6 +148,19 @@ Self-taught
 - Learned Ansible
 
 - Learned Elliptic Library
+
+- Launched First SaaS Product
+</details>
+
+<h3>2021</h2>
+<details>
+  <summary>Expand</summary>
+  
+- Architecture for Github Actions and chaining repositories
+
+- First SaaS Product Reaches 30+ Customers
+
+- Launched Unofficial Documentation for alt:V
 </details>
 
 ### Stats
