@@ -11,7 +11,7 @@ Self-taught
 <img src="https://badges.pufler.dev/visits/Stuyk/Stuyk?style=flat-square&color=6875f5&logo=github" />
 
 <a href="https://stuyk.com/">🏡 Personal Website</a> |
-<a href="https://gtavathena.com/">Athena Roleplay Framework</a> |
+<a href="https://athenaframework.com/">Athena Roleplay Framework</a> |
 <a href="https://youtube.com/stuyk">📺 Youtube</a> |
 
 ### Previous Projects
@@ -158,9 +158,21 @@ Self-taught
   
 - Architecture for Github Actions and chaining repositories
 
-- First SaaS Product Reaches 30+ Customers
+- Launched Athena Roleplay Framework
 
+ - Used Expirmental WASM Modules for Licenses
+  
 - Launched Unofficial Documentation for alt:V
+
+- Athena Roleplay Framework Reaches 40 Customers
+
+- EzMongoDB NPM Library Released
+
+- Created License Verification System
+
+- Creasted IP Binding for License Verifications
+
+- Headed a Discord Bot Project with 6 Contributors, and Reviewed PRs
 </details>
 
 ### Stats
