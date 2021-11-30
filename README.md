@@ -1,6 +1,6 @@
 # Stuyk <sup style="font-size: 12px">he/him</sup>
 
-## Pronounced: 'stuck'
+### Pronounced: 'stuck'
 
 A self-taught full-stack developer emboldened by Web 3.0 and empowering others to learn programming by example.
 
