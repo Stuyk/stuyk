@@ -15,6 +15,7 @@ A self-taught full-stack developer emboldened by Web 3.0 and empowering others t
 * NodeJS
 * Electron
 * Vue3
+* Astro
 * ViteJS
 * Cryptography
 * NoSQL Database
