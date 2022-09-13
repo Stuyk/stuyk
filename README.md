@@ -4,25 +4,7 @@
 
 A self-taught full-stack developer emboldened by Web 3.0 and empowering others to learn programming by example.
 
----
-
-#### **Skillset**
-
-* EOS Blockchain Development
-* C++
-* TypeScript
-* JavaScript
-* NodeJS
-* Electron
-* Vue3
-* Astro
-* ViteJS
-* Cryptography
-* NoSQL Database
-* Github Actions and Continuous Integration
-* Docker
-
----
+![](./github-metrics.svg)
 
 #### **Notable Projects**
 
@@ -35,7 +17,3 @@ A self-taught full-stack developer emboldened by Web 3.0 and empowering others t
 * Created Alternate Settlements for Fallout 4
 * Created a procedural dungeon generator for Fallout 4
 * Frosty Level for Alien Swarm
-
----
-
-_1st Programming Job from a Reddit Post_
