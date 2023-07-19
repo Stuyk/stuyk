@@ -2,12 +2,15 @@
 
 ### Pronounced: 'stuck'
 
-A self-taught full-stack developer emboldened by Web 3.0 and empowering others to learn programming by example.
+Full Stack Remote Blockchain Developer | Thriving in Web3, NodeJS, and Open Source Projects
 
-![](./github-metrics.svg)
+I am interested in Full Stack NodeJS based roles. I have a strong understanding of TypeScript, and thrive with the Vue framework. I am experienced in Blockchain and Web3 smart contracts for the EOS platform using C++. I have built numerous tools with Electron, NodeJS, REST, and much more.
+
+I am currently learning Unity by utilizing C# and hope to publish a game by myself in the near future. I have produced various videos on my own personal YouTube that demonstrates programming concepts, game modding, and various other interests.
 
 #### **Notable Projects**
 
+* alt:V CRC Project
 * Athena Roleplay Framework for alt:V
 * Proof of Concept - Wallet for EOS Based Blockchain
 * 1st Generation NFT Implementation for EOS Based Blockchain
