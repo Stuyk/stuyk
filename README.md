@@ -6,7 +6,7 @@ Full Stack Remote Blockchain Developer | Thriving in Web3, NodeJS, and Open Sour
 
 I am interested in Full Stack NodeJS based roles. I have a strong understanding of TypeScript, and thrive with the Vue framework. I am experienced in Blockchain and Web3 smart contracts for the EOS platform using C++. I have built numerous tools with Electron, NodeJS, REST, and much more.
 
-I am currently learning Unity by utilizing C# and hope to publish a game by myself in the near future. I have produced various videos on my own personal YouTube that demonstrates programming concepts, game modding, and various other interests.
+I have recently started using the Godot Game Engine to learn game development.
 
 #### **Notable Projects**
 
