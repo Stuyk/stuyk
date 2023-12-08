@@ -1,5 +1,7 @@
 # Stuyk <sup style="font-size: 12px">he/him</sup>
 
+[Check Out Our Hobby Game Studio](https://suboptimalstudio.com/)
+
 ### Pronounced: 'stuck'
 
 Full Stack Remote Blockchain Developer | Thriving in Web3, NodeJS, and Open Source Projects
