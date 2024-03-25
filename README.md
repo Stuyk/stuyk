@@ -1,24 +1,38 @@
-# Stuyk <sup style="font-size: 12px">he/him</sup>
+# Stuyk <sub>(Pronounced as 'Stuck')</sub>
 
-[Check Out Our Hobby Game Studio](https://suboptimalstudio.com/)
+Currently working as a Senior Software Engineer for All in Bits
 
-### Pronounced: 'stuck'
+## Work History
 
-Full Stack Remote Blockchain Developer | Thriving in Web3, NodeJS, and Open Source Projects
+Hi, here's a brief summary of my work over the years.
 
-I am interested in Full Stack NodeJS based roles. I have a strong understanding of TypeScript, and thrive with the Vue framework. I am experienced in Blockchain and Web3 smart contracts for the EOS platform using C++. I have built numerous tools with Electron, NodeJS, REST, and much more.
+- Worked 5 years at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
+  - Created their 1st Proof of Concept Wallet
+  - Built their 1st NFT Contract
+  - Built their discord to blockchain smart contract linking
+  - Built their smart contract toolkit
+  - Built their ci/cd pipeline across multiple repositories
+  - Built their ledger library for better eos integration
 
-I have recently started using the Godot Game Engine to learn game development.
+- Built a 400+ File GTA:V Roleplay Framework for alt:V with TypeScript, Vue, and MongoDB
+- Built the original resource hub for alt:V
+- Helped manage the alt:V Discord by providing support, and professional outlook that created a welcoming development space.
+- Wrote a book on C# development for rage:mp
 
-#### **Notable Projects**
+- Created Hardware Store for Stardew Valley
+- Created Longer Days for Stardew Valley
+- Created Modern Modulars for Fallout 4
+- Created Simply Modular Housing for Fallout 4
+- Created Alternate Settlements for Fallout 4
+- Created the original Settlement Keywords for Fallout 4
+- Created a prcoedural dungeon generator for Fallout 4
+- Featured in PC Gamer Magazine 2011 December for Level Design for Alien Swarm
 
-* alt:V CRC Project
-* Athena Roleplay Framework for alt:V
-* Proof of Concept - Wallet for EOS Based Blockchain
-* 1st Generation NFT Implementation for EOS Based Blockchain
-* Wrote a Book on C# Development for rage:mp
-* Featured in PC Gamer Magazine 2011 December for Level Design
-* Created Simply Modular Housing for Fallout 4
-* Created Alternate Settlements for Fallout 4
-* Created a procedural dungeon generator for Fallout 4
-* Frosty Level for Alien Swarm
+## Frameworks
+Vue, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
+
+## Languages
+TypeScript, JavaScript, HTML, CSS, C#, GDScript, C++
+
+## Other
+Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
