@@ -32,7 +32,7 @@ Hi, here's a brief summary of my work over the years.
 Vue, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
 
 ## Languages
-TypeScript, JavaScript, HTML, CSS, C#, GDScript, C++
+TypeScript, JavaScript, HTML, CSS, C#, GDScript, Go, C++
 
 ## Other
 Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
