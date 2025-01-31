@@ -1,10 +1,10 @@
 # Stuyk <sub>(Pronounced as 'Stuck')</sub>
 
-Currently working as a Senior Software Engineer for All in Bits
+Currently working as a Senior Software Engineer helping build AtomOne with a focused on decentralized applications, wallets.
+
+I sometimes [ramble about the state of the world, and myself](https://github.com/Stuyk/ramblings), give it a read if you want to know more about me.
 
 ## Work History
-
-Hi, here's a brief summary of my work over the years.
 
 - Worked 5 years at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
   - Created their 1st Proof of Concept Wallet
