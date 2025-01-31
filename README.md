@@ -4,6 +4,8 @@ Currently working as a Senior Software Engineer helping build AtomOne with a foc
 
 I sometimes [ramble about the state of the world, and myself](https://github.com/Stuyk/ramblings), give it a read if you want to know more about me.
 
+I am often somewhere between manic and depressed but I try to use it as a strength to empower creativity.
+
 ## Work History
 
 - Worked 5 years at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
