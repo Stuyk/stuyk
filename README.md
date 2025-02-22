@@ -34,12 +34,12 @@ I am often somewhere between manic and depressed but I try to use it as a streng
 Vue, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
 
 ## Languages
-TypeScript, JavaScript, HTML, CSS, C#, GDScript, Go, C++
+TypeScript, JavaScript, Go, GDScript, HTML, CSS, C#, C++
 
 ## Other
 Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 
-## Godot Tools
+## Godot Plugins
 
 - [GigaAudio](https://github.com/Stuyk/GigaAudio-Godot) is a plugin for Audio Occlusion, Audio Areas, and Audio Depth Areas.
 - [GigaBake](https://github.com/Stuyk/gigabake-godot) is a tool for building CSG, Occlusions, and Collisions with a single click!
