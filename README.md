@@ -41,5 +41,6 @@ Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 
 ## Godot Tools
 
+- [GigaAudio](https://github.com/Stuyk/GigaAudio-Godot) is a plugin for Audio Occlusion, Audio Areas, and Audio Depth Areas.
 - [GigaBake](https://github.com/Stuyk/gigabake-godot) is a tool for building CSG, Occlusions, and Collisions with a single click!
 - [Create 3D Cam from Viewport Camera](https://github.com/Stuyk/godot-create-cam-from-editor-cam) is a tool to make very specific cameras.
