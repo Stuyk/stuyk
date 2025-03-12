@@ -49,5 +49,7 @@ Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 
 Yes, sometimes I abuse GitHub's action runners because they're great for small applications that collect data. Here's a few of them.
 
+I'm an incredibly frugal person and sometimes I look for $0.00 solutions and see how far I can take them.
+
 - [0xForum](https://github.com/Stuyk/0x-atomone-forum) is a small application built on top of AtomOne that enables people to post threads, and reply to threads through the blockchain.
 - [CryptoPrices](https://github.com/Stuyk/crypto-prices) is a small application that abuses coinmarketcap's free tier to get hourly prices and post them as JSON data.
