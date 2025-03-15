@@ -45,11 +45,8 @@ Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 - [GigaBake](https://github.com/Stuyk/gigabake-godot) is a tool for building CSG, Occlusions, and Collisions with a single click!
 - [Create 3D Cam from Viewport Camera](https://github.com/Stuyk/godot-create-cam-from-editor-cam) is a tool to make very specific cameras.
 
-## Abusing GitHub
-
-Yes, sometimes I abuse GitHub's action runners because they're great for small applications that collect data. Here's a few of them.
-
-I'm an incredibly frugal person and sometimes I look for $0.00 solutions and see how far I can take them.
+## Crypto Projects
 
 - [0xForum](https://github.com/Stuyk/0x-atomone-forum) is a small application built on top of AtomOne that is a small blockchain forum and works out of the memo fields.
+- [0xForum Frontend](https://github.com/Stuyk/0x-atomone-forum-frontend) a deployment of the frontend for the 0xForum.
 - [CryptoPrices](https://github.com/Stuyk/crypto-prices) is a small application that pulls coinmarketcap's free tier to get hourly prices and post them as JSON data, currently archived.
