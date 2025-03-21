@@ -47,6 +47,7 @@ Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 
 ## Crypto Projects
 
-- [0xForum](https://github.com/Stuyk/0x-atomone-forum) is a small application built on top of AtomOne that is a small blockchain forum and works out of the memo fields.
-- [0xForum Frontend](https://github.com/Stuyk/0x-atomone-forum-frontend) a deployment of the frontend for the 0xForum.
+- [0xForum Frontend](https://github.com/Stuyk/0x-atomone-forum-frontend) a decentralized forum for AtomOne.
 - [CryptoPrices](https://github.com/Stuyk/crypto-prices) is a small application that pulls coinmarketcap's free tier to get hourly prices and post them as JSON data, currently archived.
+- ChronoState (To Be Released) - Is a library for event sourcing memos to build application instructions on AtomOne.
+- ChronoDrive (To Be Released) - Is a server that parses memos block by block and looks for prefixes pertaining to specific memos.
