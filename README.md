@@ -1,6 +1,6 @@
 # Stuyk <sub>(Pronounced as 'Stuck')</sub>
 
-Currently working as a Senior Software Engineer helping build AtomOne with a focused on decentralized applications, wallets.
+Currently working as a Senior Software Engineer building the next generation of decentralized social media, and rethinking Web 3.0 applications.
 
 I sometimes [ramble about the state of the world, and myself](https://github.com/Stuyk/ramblings), give it a read if you want to know more about me.
 
