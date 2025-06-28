@@ -2,8 +2,6 @@
 
 Currently working as a Senior Software Engineer building the next generation of decentralized social media, and rethinking Web 3.0 applications.
 
-I sometimes [ramble about the state of the world, and myself](https://github.com/Stuyk/ramblings), give it a read if you want to know more about me.
-
 I am often somewhere between manic and depressed but I try to use it as a strength to empower creativity.
 
 ## Work History
