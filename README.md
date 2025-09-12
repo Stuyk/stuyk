@@ -2,7 +2,7 @@
 
 Currently working as a Senior Software Engineer building the next generation of decentralized social media, and rethinking Web 3.0 applications.
 
-I am often somewhere between manic and depressed but I try to use it as a strength to empower creativity.
+**IF YOU WANT TO REACH ME PICK EITHER LINKEDIN OR DISCORD**
 
 ## Work History
 
