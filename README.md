@@ -6,33 +6,41 @@ Currently working as a Senior Software Engineer building the next generation of 
 
 ## Work History
 
+- All in Bits (Cosmos Ecosystem)
+  - Lead a team to create the twitter of crypto that embeds itself inside of any blockchain with memos. Delivered the MVP within the estimated window with 100% accuracy.
+  - Established ChronoLibrary that utilizes blockchain memos to create constant state in memos and reconstruct state on client-side by consuming memo instructions as program functions.
+  - Designed an API service that utilizes GraphQL and integrates GitHub Discussions into any website.
+  - Developed a governance platform for voting, viewing proposals, and discussing proposals.
+  - Created a chrome extension that parses base64 from gno.land html returns and allows for 3D models, audio, and webms to be displayed on client-side.
+  - Built a chrome extension wallet in the cosmos ecosystem.
+
 - Worked 5 years at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
   - Created their 1st Proof of Concept Wallet
   - Built their 1st NFT Contract
   - Built their discord to blockchain smart contract linking
-  - Built their smart contract toolkit
   - Built their ci/cd pipeline across multiple repositories
-  - Built their ledger library for better eos integration
+  - Created an open-source Ledger hardware library that signed data by directly implementing buffer serialization and transpiling to ES Module and CommonJS
+  - Developed a VS Code extension that helps developers write C++ smart contracts for Antelope by inserting header files, signing transactions, and securely storing private keys
 
-- Built a 400+ File GTA:V Roleplay Framework for alt:V with TypeScript, Vue, and MongoDB
-- Built the original resource hub for alt:V
-- Helped manage the alt:V Discord by providing support, and professional outlook that created a welcoming development space.
-- Wrote a book on C# development for rage:mp
-
-- Created Hardware Store for Stardew Valley
-- Created Longer Days for Stardew Valley
-- Created Modern Modulars for Fallout 4
-- Created Simply Modular Housing for Fallout 4
-- Created Alternate Settlements for Fallout 4
-- Created the original Settlement Keywords for Fallout 4
-- Created a prcoedural dungeon generator for Fallout 4
-- Featured in PC Gamer Magazine 2011 December for Level Design for Alien Swarm
+- For Funsies
+  - Built a 400+ File GTA:V Roleplay Framework for alt:V with TypeScript, Vue, and MongoDB
+  - Built the original resource hub for alt:V
+  - Helped manage the alt:V Discord by providing support, and professional outlook that created a welcoming development space.
+  - Wrote a book on C# development for rage:mp
+  - Created Hardware Store for Stardew Valley
+  - Created Longer Days for Stardew Valley
+  - Created Modern Modulars for Fallout 4
+  - Created Simply Modular Housing for Fallout 4
+  - Created Alternate Settlements for Fallout 4
+  - Created the original Settlement Keywords for Fallout 4
+  - Created a prcoedural dungeon generator for Fallout 4
+  - Featured in PC Gamer Magazine 2011 December for Level Design for Alien Swarm
 
 ## Frameworks
-Vue, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
+Vue, React, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
 
 ## Languages
-TypeScript, JavaScript, Go, GDScript, HTML, CSS, C#, C++
+TypeScript, JavaScript, Go, GDScript, HTML, CSS, C#, C++, SQL
 
 ## Other
 Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
