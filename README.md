@@ -1,6 +1,6 @@
 # Stuyk <sub>(Pronounced as 'Stuck')</sub>
 
-Currently working as a Senior Software Engineer building the next generation of decentralized social media, and rethinking Web 3.0 applications.
+Senior Developer, Fullstack Developer
 
 **IF YOU WANT TO REACH ME PICK EITHER LINKEDIN OR DISCORD**
 
