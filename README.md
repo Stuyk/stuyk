@@ -6,7 +6,7 @@ Currently working as a Senior Software Engineer building the next generation of 
 
 ## Work History
 
-- All in Bits (Formerly Tendermint)
+- 2 Years @ All in Bits (Formerly Tendermint)
   - Lead a team to create the twitter of crypto that embeds itself inside of any blockchain with memos. Delivered the MVP within the estimated window with 100% accuracy.
   - Established ChronoLibrary that utilizes blockchain memos to create constant state in memos and reconstruct state on client-side by consuming memo instructions as program functions.
   - Designed an API service that utilizes GraphQL and integrates GitHub Discussions into any website.
@@ -15,7 +15,7 @@ Currently working as a Senior Software Engineer building the next generation of 
   - Built a chrome extension wallet in the cosmos ecosystem.
   - Survivor
 
-- Worked 5 years at [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
+- 5 Years @ [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
   - Created their 1st Proof of Concept Wallet
   - Built their 1st NFT Contract
   - Built their discord to blockchain smart contract linking
