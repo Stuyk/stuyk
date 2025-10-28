@@ -42,7 +42,7 @@ Senior Developer, Fullstack Developer
   - Featured in PC Gamer Magazine 2011 December for Level Design for Alien Swarm
 
 ## Frameworks
-Vue, React, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
+Vue, Svelte, React, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
 
 ## Languages
 TypeScript, JavaScript, Go, GDScript, HTML, CSS, C#, C++, SQL
