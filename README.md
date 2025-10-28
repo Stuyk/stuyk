@@ -1,4 +1,4 @@
-# Stuyk <sub>(Pronounced as 'Stuck')</sub>
+# [Stuyk](https://stuyk.com/) <sub>(Pronounced as 'Stuck')</sub>
 
 Senior Developer, Fullstack Developer
 
