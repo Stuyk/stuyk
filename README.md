@@ -13,7 +13,7 @@ Senior Developer, Fullstack Developer
 
 **Frontend** - Vue, Svelte, Tailwind CSS, HTML, CSS, React
 
-**Backend & Data** - Node.js, REST, GraphQL, WebSockets, GraphQL, MongoDB
+**Backend & Data** - Node.js, REST, GraphQL, WebSockets, GraphQL, MongoDB, Drizzle, Prisma
 
 **DevOps & Tools** - GitHub Actions, Docker, CI/CD, Git, GCP, Vite, Vitest, SWC
 
