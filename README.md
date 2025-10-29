@@ -2,7 +2,10 @@
 
 Senior Developer, Fullstack Developer
 
-**IF YOU WANT TO REACH ME PICK EITHER LINKEDIN OR DISCORD**
+- [LinkedIn](https://www.linkedin.com/in/stuyk/)
+- [Telegram](https://t.me/stuyk)
+- [Discord](https://discordapp.com/users/202685967935471617)
+- [Signal](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
 
 ## Work History
 
@@ -60,3 +63,4 @@ Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 - [0xForum Frontend](https://github.com/Stuyk/0x-atomone-forum-frontend) a decentralized forum for AtomOne.
 - [CryptoPrices](https://github.com/Stuyk/crypto-prices) is a small application that pulls coinmarketcap's free tier to get hourly prices and post them as JSON data, currently archived.
 - [ChronoLibrary](https://chronolibrary.com/) - Is a library for event sourcing memos to build application instructions on AtomOne. Think smart contracts without the smart contracts.
+- [Dither](https://github.com/allinbits/dither.chat/) - A decentralized social media twitter I lead and brought to life in 6 months that lives inside blockchain memos.
