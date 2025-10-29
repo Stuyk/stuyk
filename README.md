@@ -16,7 +16,6 @@ Senior Developer, Fullstack Developer
   - Developed a governance platform for voting, viewing proposals, and discussing proposals.
   - Created a chrome extension that parses base64 from gno.land html returns and allows for 3D models, audio, and webms to be displayed on client-side.
   - Built a chrome extension wallet in the cosmos ecosystem.
-  - Survivor
 
 - 5 Years @ [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
   - Joined the first 12 employees at Ultra, and was recruited through a Reddit Direct Message
