@@ -6,6 +6,18 @@ Senior Developer, Fullstack Developer
 - [Telegram](https://t.me/stuyk)
 - [Discord](https://discordapp.com/users/202685967935471617)
 - [Signal](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
+- [YouTube](https://www.youtube.com/@Stuyk)
+
+## Skills
+**Languages** - TypeScript, JavaScript, Go (Golang), C#, C++, GDScript, SQL, HTML, CSS
+
+**Frontend** - Vue, Svelte, Tailwind CSS, HTML, CSS, React
+
+**Backend & Data** - Node.js, REST, GraphQL, WebSockets, GraphQL, MongoDB
+
+**DevOps & Tools** - GitHub Actions, Docker, CI/CD, Git, GCP, Vite, Vitest, SWC
+
+**Specialized** - Electron, Godot, Ledger, Wails, dApps
 
 ## Work History
 
@@ -42,15 +54,6 @@ Senior Developer, Fullstack Developer
   - Created the original Settlement Keywords for Fallout 4
   - Created a prcoedural dungeon generator for Fallout 4
   - Featured in PC Gamer Magazine 2011 December for Level Design for Alien Swarm
-
-## Frameworks
-Vue, Svelte, React, Tailwind CSS, REST, Vite, Vitest, SWC, Electron, GraphQL
-
-## Languages
-TypeScript, JavaScript, Go, GDScript, HTML, CSS, C#, C++, SQL
-
-## Other
-Node.js, MongoDB, MySQL, Docker, CI/CD, Git, Ledger, GCP, Godot
 
 ## Godot Plugins
 
