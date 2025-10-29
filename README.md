@@ -19,6 +19,8 @@ Senior Developer, Fullstack Developer
 
 **Specialized** - Electron, Godot, Ledger, Wails, dApps
 
+_I learn best by directly interacting with new languages, frameworks, etc. and implementing them in projects._
+
 ## Work History
 
 - Senior Developer for `X Years` @ Vaulta Foundation
