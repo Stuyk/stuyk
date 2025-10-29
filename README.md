@@ -17,7 +17,7 @@ Senior Developer, Fullstack Developer
 
 **DevOps & Tools** - GitHub Actions, Docker, CI/CD, Git, GCP, Vite, Vitest, SWC
 
-**Specialized** - Electron, Godot, Ledger, Wails, dApps
+**Specialized** - Electron, Godot, Ledger, Wails, dApps, Video Editing, Audio Editing, 3D Modeling (Blender)
 
 _I learn best by directly interacting with new languages, frameworks, etc. and implementing them in projects._
 
