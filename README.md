@@ -6,7 +6,7 @@ Senior Developer, Fullstack Developer
 
 ## Work History
 
-- TBD @ Vaulta Foundation
+- Senior Developer @ Vaulta Foundation
   - TBD
 
 - 2 Years @ All in Bits (Formerly Tendermint)
