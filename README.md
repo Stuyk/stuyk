@@ -23,9 +23,6 @@ _I learn best by directly interacting with new languages, frameworks, etc. and i
 
 ## Work History
 
-- Senior Developer for `X Years` @ Vaulta Foundation
-  - TBD
-
 - Senior Developer for `2 Years` @ All in Bits (Formerly Tendermint)
   - Lead a team to create the twitter of crypto that embeds itself inside of any blockchain with memos. Delivered the MVP within the estimated window with 100% accuracy.
   - Established ChronoLibrary that utilizes blockchain memos to create constant state in memos and reconstruct state on client-side by consuming memo instructions as program functions.
