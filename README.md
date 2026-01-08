@@ -1,5 +1,7 @@
 ## [Stuyk](https://stuyk.com/) <sub>(Pronounced as 'Stuck')</sub>
 
+# OPEN TO WORK. REACH OUT ON LINKEDIN.
+
 Senior Developer, Fullstack Developer
 
 - [LinkedIn](https://www.linkedin.com/in/stuyk/)
