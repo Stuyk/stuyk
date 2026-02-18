@@ -13,7 +13,7 @@ Senior Developer, Fullstack Developer
 ## Skills
 **Languages** - TypeScript, JavaScript, Go (Golang), C#, C++, GDScript, SQL, HTML, CSS
 
-**Frontend** - Vue, Svelte, Tailwind CSS, HTML, CSS, React
+**Frontend** - SolidJS, Vue, Svelte, Tailwind CSS, HTML, CSS, React
 
 **Backend & Data** - Node.js, REST, GraphQL, WebSockets, GraphQL, MongoDB, Drizzle, Prisma
 
