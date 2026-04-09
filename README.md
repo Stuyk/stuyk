@@ -1,6 +1,8 @@
-## [Stuyk](https://stuyk.com/) <sub>(Pronounced as 'Stuck')</sub>
+# Stuyk
 
-Senior Developer, Fullstack Developer
+[https://stuyk.com/](https://stuyk.com/)  <sub>(Pronounced as 'Stuck')</sub>
+
+Senior Developer · Fullstack Engineer · Product-minded builder
 
 - [LinkedIn](https://www.linkedin.com/in/stuyk/)
 - [Telegram](https://t.me/stuyk)
@@ -8,61 +10,129 @@ Senior Developer, Fullstack Developer
 - [Signal](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
 - [YouTube](https://www.youtube.com/@Stuyk)
 
-## Skills
-**Languages** - TypeScript, JavaScript, Go (Golang), C#, C++, GDScript, SQL, HTML, CSS
+---
 
-**Frontend** - SolidJS, Vue, Svelte, Tailwind CSS, HTML, CSS, React
+## Who
 
-**Backend & Data** - Node.js, REST, GraphQL, WebSockets, GraphQL, MongoDB, Drizzle, Prisma
+I build systems that work, not hype. I ship code, ship docs, and teach what I learn.
 
-**DevOps & Tools** - GitHub Actions, Docker, CI/CD, Git, GCP, Vite, Vitest, SWC
+- 220+ public repositories
+- 1,000+ stars across open-source work
+- 150+ YouTube videos documenting growth and tooling
+- 11 years of continuous software delivery
+- 7+ years shipping across blockchain, fintech, games, and tooling
 
-**Specialized** - Electron, Godot, Ledger, Wails, dApps, Video Editing, Audio Editing, 3D Modeling (Blender)
+---
 
-_I learn best by directly interacting with new languages, frameworks, etc. and implementing them in projects._
+## What I do
 
-## Work History
+- Build **production-grade frameworks** for multiplayer games and blockchain systems
+- Ship **developer tools** and **automation** that save time and reduce friction
+- Design **game systems** and **real-time backends** with networked state, persistence, and UX
+- Create **blockchain infrastructure** from wallets to memos to governance
+- Deliver **Godot plugins** and creative tools that solve real problems for engine users
+- Write **docs, tutorials, and teaching projects** so other builders can move faster
 
-- Senior Developer for `2 Years` @ All in Bits (Formerly Tendermint)
-  - Lead a team to create the twitter of crypto that embeds itself inside of any blockchain with memos. Delivered the MVP within the estimated window with 100% accuracy.
-  - Established ChronoLibrary that utilizes blockchain memos to create constant state in memos and reconstruct state on client-side by consuming memo instructions as program functions.
-  - Designed an API service that utilizes GraphQL and integrates GitHub Discussions into any website.
-  - Developed a governance platform for voting, viewing proposals, and discussing proposals.
-  - Created a chrome extension that parses base64 from gno.land html returns and allows for 3D models, audio, and webms to be displayed on client-side.
-  - Built a chrome extension wallet in the cosmos ecosystem.
+---
 
-- Blockchain Engineer for `5 Years` @ [Ultra.io](https://ultra.io) and built wallets, protocol changes, visual studio code extensions, applications, ci/cd pipelines, smart contracts, and decentralized applications.
-  - Joined the first 12 employees at Ultra, and was recruited through a Reddit Direct Message
-  - Created their 1st Proof of Concept Wallet
-  - Built their 1st NFT Contract
-  - Built their discord to blockchain smart contract linking
-  - Built their ci/cd pipeline across multiple repositories
-  - Created an open-source Ledger hardware library that signed data by directly implementing buffer serialization and transpiling to ES Module and CommonJS
-  - Developed a VS Code extension that helps developers write C++ smart contracts for Antelope by inserting header files, signing transactions, and securely storing private keys
+## Core strengths
 
-- For Funsies
-  - Built a 400+ File GTA:V Roleplay Framework for alt:V with TypeScript, Vue, and MongoDB
-  - Built the original resource hub for alt:V
-  - Helped manage the alt:V Discord by providing support, and professional outlook that created a welcoming development space.
-  - Wrote a book on C# development for rage:mp
-  - Created Hardware Store for Stardew Valley
-  - Created Longer Days for Stardew Valley
-  - Created Modern Modulars for Fallout 4
-  - Created Simply Modular Housing for Fallout 4
-  - Created Alternate Settlements for Fallout 4
-  - Created the original Settlement Keywords for Fallout 4
-  - Created a prcoedural dungeon generator for Fallout 4
-  - Featured in PC Gamer Magazine 2011 December for Level Design for Alien Swarm
+### Languages
+TypeScript · JavaScript · C# · C++ · GDScript · SQL · HTML · CSS · Go · WebAssembly · Java · Lua
 
-## Godot Plugins
+### Frontend
+SolidJS · Vue 3 · React · Svelte · Tailwind CSS · PixiJS · HTML5 Canvas
 
-- [GigaAudio](https://github.com/Stuyk/GigaAudio-Godot) is a plugin for Audio Occlusion, Audio Areas, and Audio Depth Areas.
-- [GigaBake](https://github.com/Stuyk/gigabake-godot) is a tool for building CSG, Occlusions, and Collisions with a single click!
-- [Create 3D Cam from Viewport Camera](https://github.com/Stuyk/godot-create-cam-from-editor-cam) is a tool to make very specific cameras.
+### Backend & data
+Node.js · REST · GraphQL · WebSockets · Socket.IO · MongoDB · PostgreSQL · Drizzle ORM · Prisma
 
-## Crypto Projects
+### DevOps & tools
+Vite · Vitest · GitHub Actions · Docker · CI/CD · Git · Google Cloud · SWC · TypeDoc
 
-- [0xForum Frontend](https://github.com/Stuyk/0x-atomone-forum-frontend) a decentralized forum for AtomOne.
-- [CryptoPrices](https://github.com/Stuyk/crypto-prices) is a small application that pulls coinmarketcap's free tier to get hourly prices and post them as JSON data, currently archived.
-- [ChronoLibrary](https://chronolibrary.com/) - Is a library for event sourcing memos to build application instructions on AtomOne. Think smart contracts without the smart contracts.
-- [Dither](https://github.com/allinbits/dither.chat/) - A decentralized social media twitter I lead and brought to life in 6 months that lives inside blockchain memos.
+### Specialized experience
+alt:V framework architecture · Godot engine plugins · blockchain (Cosmos, EOS) · Ledger hardware wallets · smart contracts · real-time multiplayer · audio occlusion · 3D mesh processing · video editing
+
+---
+
+## Work history highlights
+
+### Senior Frontend Developer · OrderPort
+
+### Senior Developer · All in Bits / Tendermint
+
+- TO BE DETERMINED, MAY THE DICE ROLE GENEROUSLY
+
+### Blockchain Engineer · Ultra.io
+
+- One of the first 12 hires, recruited through Reddit
+- Built Ultra’s first Proof-of-Concept wallet
+- Implemented NFT smart contracts and Discord-to-blockchain linking
+- Designed multi-repo CI/CD pipelines for production releases
+- Created an open-source Ledger library with low-level buffer serialization for ESM and CommonJS
+- Built a VS Code extension for Antelope C++ contract authors, handling header insertion, transaction signing, and secure key storage
+
+### For funsies (serious output)
+
+- Built a 400+ file GTA:V roleplay framework for alt:V using TypeScript, Vue, and MongoDB
+- Created the original alt:V resource hub and helped manage the community Discord
+- Wrote a C# book for rage:mp development
+- Built Stardew Valley mods like Hardware Store and Longer Days
+- Built Fallout 4 systems including Modern Modulars, Simply Modular Housing, Alternate Settlements, and a procedural dungeon generator
+- Featured in PC Gamer Magazine December 2011 for Alien Swarm level design
+
+---
+
+## Flagship projects
+
+### Multiplayer frameworks
+- **alt:V Athena Framework** — canonical TypeScript roleplay framework for alt:V
+- **Rebar Framework** — modern TypeScript successor to Athena
+- **Fuel Rats series** — shipped multiplayer racing and competitive game modes
+
+### Godot ecosystem
+- **GigaAudio-Godot** — audio occlusion, audio areas, and depth areas for Godot 4.3+
+- **GigaBake-Godot** — one-click mesh, collision, and occlusion baking tool
+- **Godot editor tooling** — quality-of-life plugins and example games
+
+### Blockchain & Crypto
+- **ChronoLibrary** — event-sourced memos as client-side application instructions
+- **Dither** — decentralized social media built on blockchain memos
+- **Ledger wallet tooling** — secure signing library and hardware wallet integrations
+- **Ultra wallet and smart contract tooling** — production-grade blockchain infrastructure
+
+### Tools & automation
+- **Streamlabs OBS Scene Switcher** — automates scene switching from window focus
+- **GTAV Image Archive** — community resource with 17k+ GTA:V asset images
+- **Documentation automation plugins** — Vitepress and Honkit extensions for faster docs
+
+---
+
+## What this portfolio says
+
+- I ship real products, not prototypes
+- I solve problems across games, blockchain, and developer tooling
+- I write code that is meant to last and be understood later
+- I build community-facing systems, documentation, and teaching material
+- I prefer **practical simplicity** over unnecessary complexity
+
+---
+
+## How I work
+
+### I will do
+
+- Write clean, maintainable code humans can understand
+- Ship fast: 90% today beats perfection in 6 months
+- Call out bad decisions early with a better direction
+- Own my work and take responsibility
+- Mentor teammates through example
+- Work autonomously with minimal micromanagement
+
+### I will not do
+
+- Technical interviews based on live coding, take-homes, or leetcode
+- Multi-round gauntlets with more than two evaluators
+- Performative work or office politics
+- Work for equity instead of cash
+- Accept vague requirements or unclear success metrics
+- Compromise principles for a paycheck
