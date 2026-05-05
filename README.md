@@ -58,9 +58,19 @@ alt:V framework architecture · Godot engine plugins · blockchain (Cosmos, EOS)
 
 ### Senior Frontend Developer · OrderPort
 
+- Documented 17 Year Old System of ASPX, IIS, and C#
+- Reduced developer onboarding time from 4 weeks to 2-3 days with system setup instructions
+- Used AI tooling to build 2 API Library Wrappers with TypeSafety for APIs written in C#
+- Used AI tooling to systemically create a white-label webstore for wine and food sales
+
 ### Senior Developer · All in Bits / Tendermint
 
-- TO BE DETERMINED, MAY THE DICE ROLE GENEROUSLY
+- Led a team of 6 engineers to launch a decentralized social media platform 6 months ahead of schedule by architecting a high-performance Cosmos dApp with ElysiaJS, Typescript, Vue 3, Drizzle, and PostgreSQL.
+- Cut infrastructure costs by 50% through a custom “stateless” dApp architecture that replaced direct API writes with blockchain memo-field storage and a TypeScript indexer.
+- Engineered a multi-key Cosmos blockchain wallet Chrome Extension using Vue 3, securing a successful audit via AES-256 encryption and high-performance WebSocket/REST integration.
+- Boosted sprint velocity by 20% by establishing the team’s first Agile SDLC framework and managing the full lifecycle for 6 engineers.
+- Delivered 4 production DeFi applications (Staking/Governance) within 12 months by developing a proprietary suite of reusable TypeScript hooks and wallet-connection libraries to ensure rapid, scalable development..
+- Found through GitHub
 
 ### Blockchain Engineer · Ultra.io
 
