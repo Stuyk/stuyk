@@ -4,7 +4,6 @@
 
 Senior Developer · Fullstack Engineer · Product-minded builder
 
-- [LinkedIn](https://www.linkedin.com/in/stuyk/)
 - [Telegram](https://t.me/stuyk)
 - [Discord](https://discordapp.com/users/202685967935471617)
 - [Signal](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
