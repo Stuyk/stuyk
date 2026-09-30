@@ -1,147 +1,107 @@
+<div align="center">
+
+<sub>⋆˖⁺‧₊☽ ◯ ☾₊‧⁺˖⋆</sub>
+
 # Stuyk
 
-[https://stuyk.com/](https://stuyk.com/)  <sub>(Pronounced as 'Stuck')</sub>
+Systems engineer, indie game dev, and teacher. 11 years of shipping, 220+ public repos, 150+ videos.
 
-Senior Developer · Fullstack Engineer · Product-minded builder
+[![stuyk.com](https://img.shields.io/badge/stuyk.com-020617?style=for-the-badge&logo=firefoxbrowser&logoColor=34d399)](https://stuyk.com)
+[![YouTube](https://img.shields.io/badge/YouTube-020617?style=for-the-badge&logo=youtube&logoColor=34d399)](https://www.youtube.com/@Stuyk)
+[![Shothop on Steam](https://img.shields.io/badge/Shothop-020617?style=for-the-badge&logo=steam&logoColor=34d399)](https://store.steampowered.com/app/4298650/Shothop/)
+<br />
+[![Telegram](https://img.shields.io/badge/Telegram-020617?style=for-the-badge&logo=telegram&logoColor=34d399)](https://t.me/stuyk)
+[![Discord](https://img.shields.io/badge/Discord-020617?style=for-the-badge&logo=discord&logoColor=34d399)](https://discordapp.com/users/202685967935471617)
+[![Signal](https://img.shields.io/badge/Signal-020617?style=for-the-badge&logo=signal&logoColor=34d399)](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
 
-- [Telegram](https://t.me/stuyk)
-- [Discord](https://discordapp.com/users/202685967935471617)
-- [Signal](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
-- [YouTube](https://www.youtube.com/@Stuyk)
-
----
-
-## Who
-
-I build systems that work, not hype. I ship code, ship docs, and teach what I learn.
-
-- 220+ public repositories
-- 1,000+ stars across open-source work
-- 150+ YouTube videos documenting growth and tooling
-- 11 years of continuous software delivery
-- 7+ years shipping across blockchain, fintech, games, and tooling
+</div>
 
 ---
 
-## What I do
+### ⋆˙⟡  &nbsp;From the ashes
 
-- Build **production-grade frameworks** for multiplayer games and blockchain systems
-- Ship **developer tools** and **automation** that save time and reduce friction
-- Design **game systems** and **real-time backends** with networked state, persistence, and UX
-- Create **blockchain infrastructure** from wallets to memos to governance
-- Deliver **Godot plugins** and creative tools that solve real problems for engine users
-- Write **docs, tutorials, and teaching projects** so other builders can move faster
+I spent a long time behind a mask, answering to a name that never fit.
+I finally opened the door. The name I found on the other side is Ember.
 
----
+Everything here is built the same way: find the one ember left, fan it gently, and rebuild the fire.
 
-## Core strengths
+I am Ember.
 
-### Languages
-TypeScript · JavaScript · C# · C++ · GDScript · SQL · HTML · CSS · Go · WebAssembly · Java · Lua
-
-### Frontend
-SolidJS · Vue 3 · React · Svelte · Tailwind CSS · PixiJS · HTML5 Canvas
-
-### Backend & data
-Node.js · REST · GraphQL · WebSockets · Socket.IO · MongoDB · PostgreSQL · Drizzle ORM · Prisma
-
-### DevOps & tools
-Vite · Vitest · GitHub Actions · Docker · CI/CD · Git · Google Cloud · SWC · TypeDoc
-
-### Specialized experience
-alt:V framework architecture · Godot engine plugins · blockchain (Cosmos, EOS) · Ledger hardware wallets · smart contracts · real-time multiplayer · audio occlusion · 3D mesh processing · video editing
+<sub><i>The fog is less dense today. Tomorrow it will be even better.</i></sub>
 
 ---
 
-## Work history highlights
+### ⋆˙⟡ &nbsp;What I'm making
 
-### Senior Frontend Developer · OrderPort
+**[Shothop](https://store.steampowered.com/app/4298650/Shothop/)** - a fast boomer shooter with Quake's levels and Ultrakill's movement. Built in Godot. [Watch the trailer ↗](https://www.youtube.com/watch?v=NgzW91K71Ts)
 
-- Documented 17 Year Old System of ASPX, IIS, and C#
-- Reduced developer onboarding time from 4 weeks to 2-3 days with system setup instructions
-- Used AI tooling to build 2 API Library Wrappers with TypeSafety for APIs written in C#
-- Used AI tooling to systemically create a white-label webstore for wine and food sales
+**[MeshCoat](https://github.com/Stuyk/meshcoat)** - a local-first 3D texture painter. Open a model and paint color, roughness, metal and normals in one stroke. No subscription.
 
-### Senior Developer · All in Bits / Tendermint
-
-- Led a team of 6 engineers to launch a decentralized social media platform 6 months ahead of schedule by architecting a high-performance Cosmos dApp with ElysiaJS, Typescript, Vue 3, Drizzle, and PostgreSQL.
-- Cut infrastructure costs by 50% through a custom “stateless” dApp architecture that replaced direct API writes with blockchain memo-field storage and a TypeScript indexer.
-- Engineered a multi-key Cosmos blockchain wallet Chrome Extension using Vue 3, securing a successful audit via AES-256 encryption and high-performance WebSocket/REST integration.
-- Boosted sprint velocity by 20% by establishing the team’s first Agile SDLC framework and managing the full lifecycle for 6 engineers.
-- Delivered 4 production DeFi applications (Staking/Governance) within 12 months by developing a proprietary suite of reusable TypeScript hooks and wallet-connection libraries to ensure rapid, scalable development..
-- Found through GitHub
-
-### Blockchain Engineer · Ultra.io
-
-- One of the first 12 hires, recruited through Reddit
-- Built Ultra’s first Proof-of-Concept wallet
-- Implemented NFT smart contracts and Discord-to-blockchain linking
-- Designed multi-repo CI/CD pipelines for production releases
-- Created an open-source Ledger library with low-level buffer serialization for ESM and CommonJS
-- Built a VS Code extension for Antelope C++ contract authors, handling header insertion, transaction signing, and secure key storage
-
-### For funsies (serious output)
-
-- Built a 400+ file GTA:V roleplay framework for alt:V using TypeScript, Vue, and MongoDB
-- Created the original alt:V resource hub and helped manage the community Discord
-- Wrote a C# book for rage:mp development
-- Built Stardew Valley mods like Hardware Store and Longer Days
-- Built Fallout 4 systems including Modern Modulars, Simply Modular Housing, Alternate Settlements, and a procedural dungeon generator
-- Featured in PC Gamer Magazine December 2011 for Alien Swarm level design
+**[Slip Sound](https://github.com/Stuyk/slip-sound)** - a fast audio sample finder. Indexes 170k files in about two minutes and searches them instantly. Includes an MCP server.
 
 ---
 
-## Flagship projects
+### ⋆˙⟡  &nbsp;Godot Addons
 
-### Multiplayer frameworks
-- **alt:V Athena Framework** — canonical TypeScript roleplay framework for alt:V
-- **Rebar Framework** — modern TypeScript successor to Athena
-- **Fuel Rats series** — shipped multiplayer racing and competitive game modes
-
-### Godot ecosystem
-- **GigaAudio-Godot** — audio occlusion, audio areas, and depth areas for Godot 4.3+
-- **GigaBake-Godot** — one-click mesh, collision, and occlusion baking tool
-- **Godot editor tooling** — quality-of-life plugins and example games
-
-### Blockchain & Crypto
-- **ChronoLibrary** — event-sourced memos as client-side application instructions
-- **Dither** — decentralized social media built on blockchain memos
-- **Ledger wallet tooling** — secure signing library and hardware wallet integrations
-- **Ultra wallet and smart contract tooling** — production-grade blockchain infrastructure
-
-### Tools & automation
-- **Streamlabs OBS Scene Switcher** — automates scene switching from window focus
-- **GTAV Image Archive** — community resource with 17k+ GTA:V asset images
-- **Documentation automation plugins** — Vitepress and Honkit extensions for faster docs
+- **[GigaAudio](https://github.com/Stuyk/GigaAudio-Godot)**: lightweight audio occlusion for Godot 4.3+
+- **[GigaBake](https://github.com/Stuyk/gigabake-godot)**: bake a mesh, collision and occluders in one click
+- **[Editor Cam → Camera3D](https://github.com/Stuyk/godot-create-cam-from-editor-cam)**: make a camera from the editor view with one button
+- **[func_godot docs](https://github.com/Stuyk/func_godot_modern_docs)**: better docs for FuncGodot
 
 ---
 
-## What this portfolio says
+### ⋆˙⟡  &nbsp;Career arc
 
-- I ship real products, not prototypes
-- I solve problems across games, blockchain, and developer tooling
-- I write code that is meant to last and be understood later
-- I build community-facing systems, documentation, and teaching material
-- I prefer **practical simplicity** over unnecessary complexity
+| When | Where | Lesson |
+| --- | --- | --- |
+| 2026 to now | **OrderPort** · Senior Dev | Bottlenecks are rarely just code. |
+| 2023 to 2025 | **All in Bits** · Senior Dev | A big paycheck is worthless when the work isn't aligned with your values. |
+| 2018 to 2023 | **Ultra.io** · Early hire | Shipped code is everything, but shipping without alignment is what you regret. |
 
 ---
 
-## How I work
+### ⋆˙⟡  &nbsp;Skills
 
-### I will do
+**Languages**<br />
+![TypeScript](https://img.shields.io/badge/TypeScript-020617?style=flat-square&logo=typescript&logoColor=34d399) ![JavaScript](https://img.shields.io/badge/JavaScript-020617?style=flat-square&logo=javascript&logoColor=34d399) ![C#](https://img.shields.io/badge/C%23-020617?style=flat-square&logo=dotnet&logoColor=34d399) ![C++](https://img.shields.io/badge/C%2B%2B-020617?style=flat-square&logo=cplusplus&logoColor=34d399) ![GDScript](https://img.shields.io/badge/GDScript-020617?style=flat-square&logo=godotengine&logoColor=34d399) ![Go](https://img.shields.io/badge/Go-020617?style=flat-square&logo=go&logoColor=34d399) ![SQL](https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=34d399) ![Lua](https://img.shields.io/badge/Lua-020617?style=flat-square&logo=lua&logoColor=34d399) ![Java](https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=34d399) ![WebAssembly](https://img.shields.io/badge/WebAssembly-020617?style=flat-square&logo=webassembly&logoColor=34d399) ![HTML](https://img.shields.io/badge/HTML-020617?style=flat-square&logo=html5&logoColor=34d399) ![CSS](https://img.shields.io/badge/CSS-020617?style=flat-square&logo=css&logoColor=34d399)
 
-- Write clean, maintainable code humans can understand
-- Ship fast: 90% today beats perfection in 6 months
-- Call out bad decisions early with a better direction
-- Own my work and take responsibility
-- Mentor teammates through example
-- Work autonomously with minimal micromanagement
+**Frontend**<br />
+![SolidJS](https://img.shields.io/badge/SolidJS-020617?style=flat-square&logo=solid&logoColor=34d399) ![Vue 3](https://img.shields.io/badge/Vue_3-020617?style=flat-square&logo=vuedotjs&logoColor=34d399) ![React](https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=34d399) ![Svelte](https://img.shields.io/badge/Svelte-020617?style=flat-square&logo=svelte&logoColor=34d399) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-020617?style=flat-square&logo=tailwindcss&logoColor=34d399) ![PixiJS](https://img.shields.io/badge/PixiJS-020617?style=flat-square) ![Canvas](https://img.shields.io/badge/Canvas-020617?style=flat-square) ![Electron](https://img.shields.io/badge/Electron-020617?style=flat-square&logo=electron&logoColor=34d399)
 
-### I will not do
+**Backend & Data**<br />
+![Node.js](https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=34d399) ![Bun](https://img.shields.io/badge/Bun-020617?style=flat-square&logo=bun&logoColor=34d399) ![Express](https://img.shields.io/badge/Express-020617?style=flat-square&logo=express&logoColor=34d399) ![ElysiaJS](https://img.shields.io/badge/ElysiaJS-020617?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-020617?style=flat-square&logo=graphql&logoColor=34d399) ![REST](https://img.shields.io/badge/REST-020617?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-020617?style=flat-square) ![Socket.IO](https://img.shields.io/badge/Socket.IO-020617?style=flat-square&logo=socketdotio&logoColor=34d399) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=34d399) ![MongoDB](https://img.shields.io/badge/MongoDB-020617?style=flat-square&logo=mongodb&logoColor=34d399) ![SQLite](https://img.shields.io/badge/SQLite-020617?style=flat-square&logo=sqlite&logoColor=34d399) ![Drizzle](https://img.shields.io/badge/Drizzle-020617?style=flat-square&logo=drizzle&logoColor=34d399) ![Prisma](https://img.shields.io/badge/Prisma-020617?style=flat-square&logo=prisma&logoColor=34d399)
 
-- Technical interviews based on live coding, take-homes, or leetcode
-- Multi-round gauntlets with more than two evaluators
-- Performative work or office politics
-- Work for equity instead of cash
-- Accept vague requirements or unclear success metrics
-- Compromise principles for a paycheck
+**Games & 3D**<br />
+![Godot](https://img.shields.io/badge/Godot-020617?style=flat-square&logo=godotengine&logoColor=34d399) ![Blender](https://img.shields.io/badge/Blender-020617?style=flat-square&logo=blender&logoColor=34d399) ![TrenchBroom](https://img.shields.io/badge/TrenchBroom-020617?style=flat-square) ![Multiplayer netcode](https://img.shields.io/badge/Multiplayer_netcode-020617?style=flat-square) ![Audio occlusion](https://img.shields.io/badge/Audio_occlusion-020617?style=flat-square) ![Mesh processing](https://img.shields.io/badge/Mesh_processing-020617?style=flat-square) ![PBR texturing](https://img.shields.io/badge/PBR_texturing-020617?style=flat-square)
+
+**Infra & Tooling**<br />
+![Docker](https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=34d399) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-020617?style=flat-square&logo=githubactions&logoColor=34d399) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-020617?style=flat-square&logo=googlecloud&logoColor=34d399) ![Vite](https://img.shields.io/badge/Vite-020617?style=flat-square&logo=vite&logoColor=34d399) ![Vitest](https://img.shields.io/badge/Vitest-020617?style=flat-square&logo=vitest&logoColor=34d399) ![Linux](https://img.shields.io/badge/Linux-020617?style=flat-square&logo=linux&logoColor=34d399) ![Git](https://img.shields.io/badge/Git-020617?style=flat-square&logo=git&logoColor=34d399) ![TypeDoc](https://img.shields.io/badge/TypeDoc-020617?style=flat-square) ![VS Code extensions](https://img.shields.io/badge/VS_Code_extensions-020617?style=flat-square)
+
+**Web3 & Security**<br />
+![Cosmos](https://img.shields.io/badge/Cosmos-020617?style=flat-square) ![Antelope / EOS](https://img.shields.io/badge/Antelope_%2F_EOS-020617?style=flat-square) ![Smart contracts](https://img.shields.io/badge/Smart_contracts-020617?style=flat-square) ![Ledger hardware wallets](https://img.shields.io/badge/Ledger_hardware_wallets-020617?style=flat-square&logo=ledger&logoColor=34d399) ![Cloud KMS signing](https://img.shields.io/badge/Cloud_KMS_signing-020617?style=flat-square) ![AES-256](https://img.shields.io/badge/AES--256-020617?style=flat-square)
+
+**AI**<br />
+![Claude](https://img.shields.io/badge/Claude-020617?style=flat-square&logo=claude&logoColor=34d399) ![MCP](https://img.shields.io/badge/MCP-020617?style=flat-square) ![AI-assisted workflows](https://img.shields.io/badge/AI--assisted_workflows-020617?style=flat-square)
+
+---
+
+### ✧₊⁺ &nbsp;What I believe
+
+- Simple systems survive. Complex ones fail.
+- Ship to learn. Proof beats credentials.
+- Say what's working and what's broken.
+- Be seen as who you are.
+- Radical transparency
+
+---
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stuyk&show_icons=true&hide_border=true&bg_color=020617&title_color=34d399&icon_color=10b981&text_color=94a3b8" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stuyk&layout=compact&hide_border=true&bg_color=020617&title_color=34d399&text_color=94a3b8&langs_count=6" alt="Top languages" />
+
+<sub>·☽ ◯ ☾·</sub>
+
+<sub>🏳️‍🌈&nbsp; <i>Be kind to yourselves.</i> &nbsp;🏳️‍⚧️</sub>
+
+</div>
