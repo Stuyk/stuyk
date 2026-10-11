@@ -39,6 +39,8 @@ I am Ember.
 
 **[Slip Sound](https://github.com/Stuyk/slip-sound)** - a fast audio sample finder. Indexes 170k files in about two minutes and searches them instantly. Includes an MCP server.
 
+**[Mesh Animate](https://github.com/Stuyk/meshanimate)** - a dead simple 3d animator for indie developers
+
 ---
 
 ### ⋆˙⟡  &nbsp;Godot Addons
