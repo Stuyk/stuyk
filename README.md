@@ -12,7 +12,6 @@ Systems engineer, indie game dev, and teacher. 11 years of shipping, 220+ public
 <br />
 [![Telegram](https://img.shields.io/badge/Telegram-020617?style=for-the-badge&logo=telegram&logoColor=34d399)](https://t.me/stuyk)
 [![Discord](https://img.shields.io/badge/Discord-020617?style=for-the-badge&logo=discord&logoColor=34d399)](https://discordapp.com/users/202685967935471617)
-[![Signal](https://img.shields.io/badge/Signal-020617?style=for-the-badge&logo=signal&logoColor=34d399)](https://signal.me/#eu/9cENkyqdP3QDayMt551pYmHkedrhECZN4KoJprpKpDnoYVlyY31FsrU8nStCoYTU)
 
 </div>
 
