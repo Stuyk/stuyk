@@ -40,6 +40,8 @@ I am Ember.
 
 **[Mesh Animate](https://github.com/Stuyk/meshanimate)** - a dead simple 3d animator for indie developers
 
+**[Mesh Rig](https://github.com/Stuyk/meshrig)** - a dead simple 3d rigging software for models, made for indie developers
+
 ---
 
 ### ⋆˙⟡  &nbsp;Godot Addons
