@@ -29,7 +29,7 @@
 </div>
 
 <details>
-<summary><b>⋆˙⟡ &nbsp;Read the full story: who I am, what I ship, and everything I work with</b></summary>
+<summary><b>Click to Expand Text</b></summary>
 
 <br />
 
