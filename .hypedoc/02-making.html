@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>What I'm making: Shothop, MeshCoat, Slip Sound, Mesh Animate, Mesh Rig</title>
+<meta name="hypedoc:width" content="960">
+<meta name="hypedoc:selector" content="#card">
+<style>
+  :root { --cream:#f3efe6; --sand:#dad6ca; --plum:#4a3040; --teal:#45aecd; --ink:#2b1c26; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--plum); }
+  #card { padding: 20px 28px 32px 20px; }
+  .box { background: var(--sand) radial-gradient(#c9c4b6 1.2px, transparent 1.4px) 0 0/22px 22px;
+    border: 3px solid var(--plum); border-radius: 14px; box-shadow: 10px 10px 0 var(--plum); padding: 44px 44px 48px; }
+  .tag { display:inline-block; font: 700 13px/1 "Go Mono", ui-monospace, monospace; letter-spacing: .18em;
+    background: var(--teal); border: 2px solid var(--plum); padding: 6px 9px; color: var(--ink); }
+  h2 { margin: 12px 0 8px; font-family:"Inter Display", Inter, sans-serif; font-weight: 900; font-size: 46px; letter-spacing: -0.04em; line-height: 1; }
+  .lede { margin: 0 0 30px; font-size: 18px; line-height: 1.5; color:#4f3a47; }
+  .grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 20px; }
+  .c { background: var(--cream); border: 2.5px solid var(--plum); border-radius: 10px; box-shadow: 6px 6px 0 var(--plum); padding: 22px 24px; }
+  .c.feature { grid-column: span 4; background: var(--teal); }
+  .c.side { grid-column: span 2; }
+  .c.third { grid-column: span 2; }
+  .kind { font: 700 11px/1 "Go Mono", ui-monospace, monospace; letter-spacing: .16em; text-transform: uppercase; margin-bottom: 10px; display:flex; align-items:center; gap:8px; }
+  .kind::before { content:""; width:9px; height:9px; background: var(--plum); }
+  h3 { margin: 0 0 8px; font-family:"Inter Display", Inter, sans-serif; font-weight: 900; font-size: 26px; letter-spacing: -0.03em; }
+  .feature h3 { font-size: 40px; }
+  .c p { margin: 0; font-size: 16px; line-height: 1.5; color: #3d2a36; }
+  .feature p { font-size: 18px; max-width: 470px; }
+  .pills { display:flex; gap:8px; margin-top: 16px; flex-wrap: wrap; }
+  .pill { font: 700 12px/1 "Go Mono", ui-monospace, monospace; background: var(--cream); border: 2px solid var(--plum); border-radius: 6px; padding: 6px 8px; box-shadow: 2px 2px 0 var(--plum); }
+  .addons { grid-column: span 6; display:flex; align-items:center; gap: 14px; flex-wrap: wrap; background: var(--plum); color: var(--cream); box-shadow: 6px 6px 0 var(--ink); }
+  .addons .kind { margin: 0 6px 0 0; color: var(--cream); }
+  .addons .kind::before { background: var(--teal); }
+  .addons .pill { background: var(--cream); color: var(--plum); box-shadow: 2px 2px 0 var(--teal); }
+</style>
+</head>
+<body>
+<div id="card">
+  <div class="box">
+    <span class="tag">BUILDING IN PUBLIC</span>
+    <h2>What I'm making</h2>
+    <p class="lede">A game on Steam, and the tools I wished existed while making it.</p>
+    <div class="grid">
+      <div class="c feature">
+        <div class="kind">Game · Steam</div>
+        <h3>Shothop</h3>
+        <p>A fast boomer shooter with Quake's levels and Ultrakill's movement.</p>
+        <div class="pills"><span class="pill">Godot</span><span class="pill">TrenchBroom</span><span class="pill">Trailer out now</span></div>
+      </div>
+      <div class="c side">
+        <div class="kind">3D tool</div>
+        <h3>MeshCoat</h3>
+        <p>Local-first texture painter. Color, roughness, metal and normals in one stroke. No subscription.</p>
+      </div>
+      <div class="c third">
+        <div class="kind">Audio tool</div>
+        <h3>Slip Sound</h3>
+        <p>Indexes 170k samples in ~2 min, searches instantly. Ships an MCP server.</p>
+      </div>
+      <div class="c third">
+        <div class="kind">3D tool</div>
+        <h3>Mesh Animate</h3>
+        <p>A dead simple 3D animator for indie developers.</p>
+      </div>
+      <div class="c third">
+        <div class="kind">3D tool</div>
+        <h3>Mesh Rig</h3>
+        <p>Dead simple rigging for models, made for indie developers.</p>
+      </div>
+      <div class="c addons">
+        <div class="kind">Godot addons</div>
+        <span class="pill">GigaAudio</span>
+        <span class="pill">GigaBake</span>
+        <span class="pill">Editor Cam → Camera3D</span>
+        <span class="pill">func_godot docs</span>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

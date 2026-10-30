@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Toolbox: languages, frontend, backend, games, infra, web3, AI</title>
+<meta name="hypedoc:width" content="960">
+<meta name="hypedoc:selector" content="#card">
+<style>
+  :root { --cream:#f3efe6; --sand:#dad6ca; --plum:#4a3040; --teal:#45aecd; --ink:#2b1c26; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; color: var(--plum); }
+  #card { padding: 20px 28px 32px 20px; }
+  .box { background: var(--cream); border: 3px solid var(--plum); border-radius: 14px; box-shadow: 10px 10px 0 var(--plum); padding: 44px 44px 48px; }
+  .tag { display:inline-block; font: 700 13px/1 "Go Mono", ui-monospace, monospace; letter-spacing: .18em;
+    background: var(--teal); border: 2px solid var(--plum); padding: 6px 9px; color: var(--ink); }
+  h2 { margin: 12px 0 8px; font-family:"Inter Display", Inter, sans-serif; font-weight: 900; font-size: 46px; letter-spacing: -0.04em; line-height: 1; }
+  .lede { margin: 0 0 30px; font-size: 18px; line-height: 1.5; color:#4f3a47; }
+  .grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 20px; }
+  .c { background: var(--sand); border: 2.5px solid var(--plum); border-radius: 10px; box-shadow: 6px 6px 0 var(--plum); padding: 20px 22px 22px; }
+  .w6 { grid-column: span 6; } .w3 { grid-column: span 3; } .w4 { grid-column: span 4; } .w2 { grid-column: span 2; }
+  .c.lang { background: var(--teal); }
+  .c.ai { background: var(--plum); color: var(--cream); box-shadow: 6px 6px 0 var(--ink); }
+  h3 { margin: 0 0 14px; font: 700 13px/1 "Go Mono", ui-monospace, monospace; letter-spacing: .18em; text-transform: uppercase; display:flex; align-items:center; gap:8px; }
+  h3::before { content:""; width:10px; height:10px; background: var(--plum); }
+  .ai h3::before { background: var(--teal); }
+  .pills { display: flex; flex-wrap: wrap; gap: 9px; }
+  .p { font: 700 15px/1 Inter, sans-serif; background: var(--cream); color: var(--plum); border: 2px solid var(--plum); border-radius: 6px; padding: 8px 11px; box-shadow: 2px 2px 0 var(--plum); }
+  .lang .p { font-size: 17px; padding: 10px 13px; font-weight: 800; }
+  .ai .p { box-shadow: 2px 2px 0 var(--teal); }
+</style>
+</head>
+<body>
+<div id="card">
+  <div class="box">
+    <span class="tag">TOOLBOX</span>
+    <h2>Languages &amp; everything else</h2>
+    <p class="lede">From smart contracts to netcode to texture painters. Right tool, no religion.</p>
+    <div class="grid">
+      <div class="c w6 lang"><h3>Languages</h3><div class="pills">
+        <span class="p">TypeScript</span><span class="p">JavaScript</span><span class="p">C#</span><span class="p">C++</span><span class="p">GDScript</span><span class="p">Go</span><span class="p">SQL</span><span class="p">Lua</span><span class="p">Java</span><span class="p">WebAssembly</span><span class="p">HTML</span><span class="p">CSS</span>
+      </div></div>
+      <div class="c w3"><h3>Frontend</h3><div class="pills">
+        <span class="p">SolidJS</span><span class="p">Vue 3</span><span class="p">React</span><span class="p">Svelte</span><span class="p">Tailwind</span><span class="p">PixiJS</span><span class="p">Canvas</span><span class="p">Electron</span>
+      </div></div>
+      <div class="c w3"><h3>Backend &amp; data</h3><div class="pills">
+        <span class="p">Node.js</span><span class="p">Bun</span><span class="p">Express</span><span class="p">ElysiaJS</span><span class="p">GraphQL</span><span class="p">REST</span><span class="p">WebSockets</span><span class="p">Socket.IO</span><span class="p">PostgreSQL</span><span class="p">MongoDB</span><span class="p">SQLite</span><span class="p">Drizzle</span><span class="p">Prisma</span>
+      </div></div>
+      <div class="c w3"><h3>Games &amp; 3D</h3><div class="pills">
+        <span class="p">Godot</span><span class="p">Blender</span><span class="p">TrenchBroom</span><span class="p">Multiplayer netcode</span><span class="p">Audio occlusion</span><span class="p">Mesh processing</span><span class="p">PBR texturing</span>
+      </div></div>
+      <div class="c w3"><h3>Infra &amp; tooling</h3><div class="pills">
+        <span class="p">Docker</span><span class="p">GitHub Actions</span><span class="p">Google Cloud</span><span class="p">Vite</span><span class="p">Vitest</span><span class="p">Linux</span><span class="p">Git</span><span class="p">TypeDoc</span><span class="p">VS Code extensions</span>
+      </div></div>
+      <div class="c w4"><h3>Web3 &amp; security</h3><div class="pills">
+        <span class="p">Cosmos</span><span class="p">Antelope / EOS</span><span class="p">Smart contracts</span><span class="p">Ledger hardware wallets</span><span class="p">Cloud KMS signing</span><span class="p">AES-256</span>
+      </div></div>
+      <div class="c w2 ai"><h3>AI</h3><div class="pills">
+        <span class="p">Claude</span><span class="p">MCP</span><span class="p">AI-assisted workflows</span>
+      </div></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
