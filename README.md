@@ -120,13 +120,6 @@ I am Ember.
 
 ---
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Stuyk&show_icons=true&hide_border=true&bg_color=f3efe6&title_color=4a3040&icon_color=45aecd&text_color=4a3040" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stuyk&layout=compact&hide_border=true&bg_color=f3efe6&title_color=4a3040&text_color=4a3040&langs_count=6" alt="Top languages" />
-
-<sub>·☽ ◯ ☾·</sub>
-
 <sub>🏳️‍🌈&nbsp; <i>Be kind to yourselves.</i> &nbsp;🏳️‍⚧️</sub>
 
 </div>
